@@ -64,6 +64,13 @@ main {
     font-weight: bold;
 }
 
-href {
-    background-color: #000000;
+.box {
+    background-color: #ffeff1;
+    width: 90%;
+    max-width: 500px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 30px;
+    box-sizing: border-box;
 }
